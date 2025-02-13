@@ -71,4 +71,3 @@ CellebriteにはUFEDというエディション(地方都道府県警使用)も�
 - AFU/BFU: [Cellebrite](https://cellebrite.com/en/what-can-be-recovered-from-bfu-data-collection/)
 - 2024/04 Cellebrite Leaks: [Link](https://www.documentcloud.org/documents/24833832-cellebrite-ios-document-april-2024/?ref=404media.co)
 - ↑archive [1ページ]() [2ページ]() [3ページ]() [4ページ]() [5ページ](https://archive.md/uCa3G/b3bed61db238e8fbb71fd96aa933492c2d7e83af.gif)
-- Cellebrite UEFD, Premium ES: [Link](https://archive.md/nrdLm)
