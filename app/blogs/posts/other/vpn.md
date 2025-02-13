@@ -1,5 +1,5 @@
 ---
-title: "iPhoneでVPNを使用する"
+title: "Mullvad VPN"
 description: "Mullvad VPNを使用して接続元を匿名化する方法、設定を全てレクチャーします"
 ---
 
