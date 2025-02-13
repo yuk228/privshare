@@ -2,16 +2,10 @@
 title: "iPhoneでVPNを使用する"
 description: "Mullvad VPNを使用して接続元を匿名化する方法、設定を全てレクチャーします"
 ---
-この記事ではMullvad VPNをとても強く推奨していますが、案件でもなんでもありません。
-
-(そもそもMullvadは案件を出しません)
-
-私たちが匿名性を追求していく上でMullvad VPNが一番だと思ったため
-Mullvad VPNを強く推奨しています。
 
 ## [Mullvad VPN](https://mullvad.net)の詳細
 
-Mullvad VPNは私たちが推奨する最も安全かつ匿名性が高いVPNの一つです。
+Mullvad VPNは最も安全かつ匿名性が高いVPNの一つです。
 
 彼らがホストしている全てのサーバーはRAM上で動作し、また全てのログを保存しません。
 
@@ -36,10 +30,26 @@ Mullvad VPNは私たちが推奨する最も安全かつ匿名性が高いVPNの
 - DNS Content Blocker: Ads, Trackers, MalwareをON 
 - WireGuard Obfuscation: ShadowSocks
 - Quantum-resistant tunnel: ON
-- 
+- Obfuscation: Shadowsocks
 - API access: Encrypted DNS proxyをONにし、他をOFF
 - サーバーは入口をNetherlands, Amsterdam - nl-ams-wg-002
 - 出口をSwitzerland, Zurich - ch-zrh-wg-201/202を使用してください。
 
 nl-ams-wg-002はDAITAをサポートしたMullvadの所有サーバーです。
 ch-zrh-wg-201/202は[PrivateLayer(防弾)](https://www.privatelayer.com/)が所有しているサーバーです。
+
+## DAITAとは
+
+coming soon
+
+## MultiHopとは
+
+coming soon
+
+## Quantum-resistant tunnelとは
+
+coming soon
+
+## Shadowsocksとは
+
+coming soon

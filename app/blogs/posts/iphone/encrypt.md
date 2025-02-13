@@ -52,15 +52,13 @@ iPhoneでは[デフォルトで暗号化が施されいるため](https://suppor
 
 BFU状態では端末は完全に暗号化されあます。
 
-端末はフォレンジック前に電源を必ず切りましょう。(端末がBFU状態になります。)
+端末は電源を切ることで最も強い暗号化レベルになります。
 
 ## Cellebrite Premium ES for iPhone
 
-CellebriteにはUFEDというエディションもありますが、警視庁が使用しているPremium ESの方が性能が高いためそれを基準として話します。
+CellebriteにはUFEDというエディション(地方都道府県警使用)もありますが、警視庁が使用しているPremium ESの方が性能が高いためそれを基準として話します。
 
 2024年4月時点で、iPhone XRから最新モデルのiPhoneは、iOS 17.4 以降を実行している場合、まだロックを解除できません。 
-
-2024年2月8日時点ではiOS 18.3 がリリースされていますが、デジタルフォレンジックに繋がるような重大な脆弱性は見つかっていません。
 
 ## 結論
 
@@ -71,6 +69,6 @@ CellebriteにはUFEDというエディションもありますが、警視庁が
 ## 参考文献, ソース
 
 - AFU/BFU: [Cellebrite](https://cellebrite.com/en/what-can-be-recovered-from-bfu-data-collection/)
-- 2024/04 Cellebrite 顧客向け資料のLeak: [Link](https://www.documentcloud.org/documents/24833832-cellebrite-ios-document-april-2024/?ref=404media.co)
-- ↑archive [#]() [#]() [#]() [#]() [5ページ](https://archive.md/uCa3G/b3bed61db238e8fbb71fd96aa933492c2d7e83af.gif)
+- 2024/04 Cellebrite Leaks: [Link](https://www.documentcloud.org/documents/24833832-cellebrite-ios-document-april-2024/?ref=404media.co)
+- ↑archive [1ページ]() [2ページ]() [3ページ]() [4ページ]() [5ページ](https://archive.md/uCa3G/b3bed61db238e8fbb71fd96aa933492c2d7e83af.gif)
 - Cellebrite UEFD, Premium ES: [Link](https://archive.md/nrdLm)

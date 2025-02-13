@@ -134,7 +134,7 @@ Tor Browser, Mullvad Browserは高いプライバシー保護機能を搭載し�
 
 しかし、JavaScriptの使用が多いサイトを閲覧する際や、日常的に利用するのには不便な場合があるでしょう。
 
-その場合は、決して[プライバシー侵害をしているGoogle Chrome](https://archive.md/Y3tAn)は使用せず、[Firefox](https://www.mozilla.org/en-US/firefox/new/)を使用して下さい。
+その場合は、[Google Chrome](https://archive.md/Y3tAn)は使用せず、[Firefox](https://www.mozilla.org/en-US/firefox/new/)を使用して下さい。
 
 FireFoxはオープンソースのウェブブラウザーであり、ユーザーのプライバシーを第一に考えています。
 

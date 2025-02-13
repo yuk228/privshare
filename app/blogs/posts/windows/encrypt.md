@@ -9,7 +9,7 @@ BitLockerはWindows標準搭載機能であり、TPM2.0を使用します。
 
 非システムドライブ(BitLocker To Go)、システムドライブ両方の暗号化に対応しています。
 
-使用には[Windows Pro Edition](https://massgrave.dev/)が必要です。
+使用にはWindows Pro Editionが必要です。
 
 BitLockerを使用することにより、物理的なアクセス(盗難やデジタルフォレンジック)の際にファイルを安全に保護することが出来ます。
 
