@@ -23,6 +23,7 @@ export default function Home() {
         <div className="py-5">
           <p>PrivShareは匿名性 / プライバシーに関する知識を無償で提供します。</p>
           <p>※このWebsiteは開発段階です。デザインの欠陥やサービスが正常に作動しない場合があります。</p>
+          <p>記事内容の追加、詳しい説明、参考文献等は随時追加予定です。</p>
         </div>
       </div>
       <div className="flex gap-4">

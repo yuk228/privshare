@@ -13,7 +13,7 @@ SginalはSignal Foundationが開発しているオープンソースのチャッ
 
 ## Signalの設定
 
-Signalの登録には電話番号が必要です。[(電話番号の取得)]()
+Signalの登録には電話番号が必要です。[(電話番号の取得)](https://privshare-e3afbd.vercel.app/blogs/other/5sim)
 
 **Account**
 
