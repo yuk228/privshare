@@ -2,6 +2,7 @@
 title: "iPhoneのデータ保護"
 description: "iPhoneをハードウェアレベルで安全に保護する方法をレクチャーします"
 ---
+ 
 iPhoneでは[デフォルトで暗号化が施されいるため](https://support.apple.com/guide/security/encryption-and-data-protection-overview-sece3bee0835/web)、
 暗号化の処理を行う必要はありません。
 
@@ -12,6 +13,14 @@ iPhoneでは[デフォルトで暗号化が施されいるため](https://suppor
 - 「データ消去」の使用
 - iCloudバックアップのオフ / 高度なデータ保護
 - 最新の機種 / 最新バージョンを使用
+
+## 注意
+
+[ios 18.3.1](https://support.apple.com/en-us/122174)に今すぐアップデートして下さい。
+
+以前のバージョンでは物理的攻撃に関する脆弱性が確認されています。
+
+[CVE-2025-24200](https://www.cve.org/CVERecord?id=CVE-2025-24200)
 
 ## 強力なパスワードの使用
 
@@ -60,6 +69,8 @@ CellebriteにはUFEDというエディション(地方都道府県警使用)も�
 
 2024年4月時点で、iPhone XRから最新モデルのiPhoneは、iOS 17.4 以降を実行している場合、まだロックを解除できません。 
 
+Cellebriteに関する詳しい情報は以下の記事をご覧ください。
+[Cellebriteについて]()
 ## 結論
 
 結論として、iPhone XR以降の最新バージョン(ios18.3)を実行しているBFU状態のiPhoneを解析することは不可能に近いです。
